@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalin Black</h1>
+<h1 align="center">Hi 👋 I'm Kalin Black</h1>
 <h3 align="center">A passionate full-stack developer with experience in both teaching and software development! Thank you for taking the time to check out my GitHub, and feel free to contact me for questions!</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg">
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kalin-black" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kalin-black" height="30" width="40" /></a>
+<a href="https:///www.linkedin.com/in/kalin-black" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kalin-black" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kfblack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kfblack" height="30" width="40" /></a>
 </p>
 
