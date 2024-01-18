@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django, Python, and MongoDB**
 
-- 📫 How to reach me **Phone: 410-474-3186 Email: kalinblack21@gmail.com**
+- 📫 How to reach me: **Phone: (410)-474-3186 or Email: kalinblack21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
