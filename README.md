@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kfblack&label=Profile%20views&color=0e75b6&style=flat" alt="kfblack" /> </p>
 
-- 🌱 I’m currently learning **Django, Python, and MongoDB**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me: **Phone: (410)-474-3186 or Email: kalinblack21@gmail.com**
 
